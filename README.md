@@ -1,7 +1,7 @@
 THIS IS A PERSONAL PORTFOLIO WEBSITE<br>
 created by: LAKSH S<br>
 date: 12 FEB 2025<br><br>
-
+There are 22 files in total<br><br>
 There are 2 html files:<br>
 index.html has 219 lines of code<br>
 readmore.html has 96 lines of code<br>
