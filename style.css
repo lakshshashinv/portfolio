@@ -258,12 +258,13 @@ span {
 
 .portfolio-box img {
     width: 100%;
+    transition: .5s ease;
     
 }
 
 .portfolio-box:hover img {
     width: 100%;
-
+    transform: scale(1.1);
 }
 
 .portfolio-box .portfolio-layer {
