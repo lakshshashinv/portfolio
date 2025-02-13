@@ -6,7 +6,7 @@ There are 23 files in total<br><br>
 
 There are 2 html files:<br>
 index.html has 220 lines of code<br>
-readmore.html has 97 lines of code<br>
+readmore.html has 98 lines of code<br>
 
 There are 2 css files:<br>
 style.css has 557 lines of code<br>
