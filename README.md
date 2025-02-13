@@ -9,7 +9,7 @@ index.html has 220 lines of code<br>
 readmore.html has 97 lines of code<br>
 
 There are 2 css files:<br>
-style.css has 556 lines of code<br>
+style.css has 557 lines of code<br>
 style1.css has 353 lines of code<br>
 
 There are 2 js files:<br>
