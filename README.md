@@ -5,7 +5,7 @@ date: 12 FEB 2025<br><br>
 There are 25 files in total<br><br>
 
 There are 3 html files:<br>
-index.html has 220 lines of code<br>
+index.html has 221 lines of code<br>
 readmore.html has 98 lines of code<br>
 events.html has 87 lines of code<br>
 
