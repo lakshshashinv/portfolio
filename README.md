@@ -21,4 +21,4 @@ script1.js has 51 lines of code<br>
 
 
 NO PARTS OR CODE FROM THIS REPOSITORY SHALL BE USED BY ANY INDIVIDUAL. <br>
-Copyright © 2025 by LAKSH S | All Rights Reserved
+Copyright © 2026 by LAKSH S | All Rights Reserved
