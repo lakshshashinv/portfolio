@@ -55,7 +55,7 @@ ScrollReveal().reveal('.home-content h4, .about-content ', {origin: 'right'});
 
 /*==================== typed js ====================*/
 const typed = new Typed(' .multiple-text', {
-    strings: ['CSE STUDENT', ' PAINTBALLER', ' YOUTUBER'],
+    strings: ['CSE STUDENT', ' PAINTBALLER', ' LIVE SOUND ENGINEER'],
     typeSpeed: 75,
     backSpeed: 75,
     backDelay: 1000,
